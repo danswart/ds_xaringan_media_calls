@@ -1,8 +1,8 @@
 #' Create list of all media calls in a xaringan slide deck
 #'
-#' @param rmd_file
+#' @param rmd_file Path to the Rmarkdown file to be processed
 #'
-#' @return List of all media calls printed to console
+#' @return List of all media calls in markdown file and printed to console
 #' @export
 #'
 #' @importFrom stringr str_extract_all str_detect

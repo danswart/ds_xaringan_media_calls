@@ -7,10 +7,10 @@
 ds_xaringan_media_calls(rmd_file)
 }
 \arguments{
-\item{rmd_file}{}
+\item{rmd_file}{Path to the Rmarkdown file to be processed}
 }
 \value{
-List of all media calls printed to console
+List of all media calls in markdown file and printed to console
 }
 \description{
 Create list of all media calls in a xaringan slide deck
