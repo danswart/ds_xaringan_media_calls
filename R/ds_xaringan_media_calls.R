@@ -10,7 +10,7 @@
 #' @importFrom xml2 xml_find_all xml_attr
 #'
 #' @examples
-#' ds_xaringan_media_calls("unique-is-more-important.Rmd")
+#'
 #'
 ds_xaringan_media_calls <- function(rmd_file) {
 

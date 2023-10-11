@@ -15,7 +15,3 @@ List of all media calls in markdown file and printed to console
 \description{
 Create list of all media calls in a xaringan slide deck
 }
-\examples{
-ds_xaringan_media_calls("unique-is-more-important.Rmd")
-
-}
