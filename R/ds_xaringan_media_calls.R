@@ -5,7 +5,7 @@
 #' @return List of all media calls printed to console
 #' @export
 #'
-#' @importFrom stringr str_extract_all
+#' @importFrom stringr str_extract_all str_detect
 #' @importFrom rvest read_html
 #' @importFrom xml2 xml_find_all xml_attr
 #'
