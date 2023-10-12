@@ -7,7 +7,7 @@
 ds_xaringan_media_calls(rmd_file)
 }
 \arguments{
-\item{rmd_file}{Path and filename of the Rmarkdown file to be processed}
+\item{rmd_file}{Path and filename of the Rmarkdown file to be processed.  Rmd file must be present in current working directory}
 }
 \value{
 List of all media calls in markdown file printed to console
