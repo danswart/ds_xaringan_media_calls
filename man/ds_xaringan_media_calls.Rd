@@ -2,16 +2,16 @@
 % Please edit documentation in R/ds_xaringan_media_calls.R
 \name{ds_xaringan_media_calls}
 \alias{ds_xaringan_media_calls}
-\title{Create list of all media calls in a xaringan slide deck}
+\title{Create List of All Media Calls in a Xaringan Slide Deck}
 \usage{
 ds_xaringan_media_calls(rmd_file)
 }
 \arguments{
-\item{rmd_file}{Path to the Rmarkdown file to be processed}
+\item{rmd_file}{Path and filename of the Rmarkdown file to be processed}
 }
 \value{
-List of all media calls in markdown file and printed to console
+List of all media calls in markdown file printed to console
 }
 \description{
-Create list of all media calls in a xaringan slide deck
+Create List of All Media Calls in a Xaringan Slide Deck
 }

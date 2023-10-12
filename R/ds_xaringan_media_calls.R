@@ -1,8 +1,8 @@
-#' Create list of all media calls in a xaringan slide deck
+#' @title Create List of All Media Calls in a Xaringan Slide Deck
 #'
-#' @param rmd_file Path to the Rmarkdown file to be processed
+#' @param rmd_file Path and filename of the Rmarkdown file to be processed
 #'
-#' @return List of all media calls in markdown file and printed to console
+#' @return List of all media calls in markdown file printed to console
 #' @export
 #'
 #' @importFrom stringr str_extract_all str_detect
@@ -11,15 +11,9 @@
 #'
 #'
 #'
-#'
 ds_xaringan_media_calls <- function(rmd_file) {
 
-
-  # Specify the path to your Rmarkdown file
-
-  rmd_file <- "unique-is-more-important.Rmd"
-
-  # Read the content of the Rmarkdown file
+# Read the content of the Rmarkdown file
 
   rmd_content <- readLines(rmd_file, warn = FALSE)
 

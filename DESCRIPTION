@@ -1,11 +1,10 @@
 Package: xaringanmediacalls
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Create List of All Media Calls in a Xaringan Slide Deck
 Version: 0.1.0
 Author: Dan Swart
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: Dan Swart <danswartcpa@gmail.com>
+Description: Prints list of all media calls present in the xarigan slide deck to the console.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
