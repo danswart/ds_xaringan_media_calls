@@ -2,7 +2,7 @@
 #'
 #' @param rmd_file Path and filename of the Rmarkdown file to be processed.  Rmd file must be present in current working directory
 #'
-#' @return List of all media calls in markdown file printed to console
+#' @return Character vector of all media calls in a markdown file printed to the console
 #' @export
 #'
 #' @importFrom stringr str_extract_all str_detect
