@@ -1,8 +1,8 @@
 ---
-title: .f-5.b[Being .y[Different] is More Important Than You Think]
+title: .f-5.b[SAMPLE .y[SLIDE] DECK]
 subtitle: .f2.i[An .y[U].o[C].tq[E] Workshop by .y.b[Dan Swart]]
 author: 
-institute: .b.lc["Be the Voice, not the Echo"]
+institute: .b.lc["Be the Ball, Danny...Be the Ball"]
 date: "(updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:

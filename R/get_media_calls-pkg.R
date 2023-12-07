@@ -1,4 +1,4 @@
-#' @title Create List of All Media Calls in a Xaringan Slide Deck
+#' @title Create List of All Media Calls in an Rmd File
 #'
 #' @param rmd_file Path and filename of the Rmarkdown file to be processed.  Rmd file must be present in current working directory
 #'
@@ -9,9 +9,8 @@
 #' @importFrom rvest read_html
 #' @importFrom xml2 xml_find_all xml_attr
 #'
-#'
-#'
-ds_xaringan_media_calls <- function(rmd_file) {
+
+get_media_calls <- function(rmd_file) {
 
 # Read the content of the Rmarkdown file
 
