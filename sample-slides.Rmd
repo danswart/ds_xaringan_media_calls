@@ -1123,6 +1123,15 @@ background-size: contain
 
 ---
 
+<img src="gif/sesame-brought-to-you-by-letter.gif" width="100%" height="120%">
+
+<img src="img/multiple-layers-of-management.jpg", width=1200, height=400>
+
+.f1.b[<a href="vid/stew-jr-power-of-customer-suggestions.mp4" target="_blank">Power of Customer Suggestions<br> 7 min</a>]
+
+
+background-image: url(gif/thank-you-boy-hugs-chicken.gif)
+
 <!-- # MEDIA FILES IN PRESENTATION -->
 
 <!-- source("function-media-from-rmd.R") -->
